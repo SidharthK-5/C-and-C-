@@ -1,8 +1,8 @@
 # C-and-C++
 
-Basic C and C++ exercises from
+A repo containing my C and C++ practices
 
-### Exercises include programs for:
-- Hackerrank basic tasks
+### Programs include:
+- Hackerrank exercises
 - Data Structures and Algorithms assignments
 - and some fun code
